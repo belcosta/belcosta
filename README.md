@@ -1,6 +1,6 @@
 <img src="background.png" width=100%>
                                    
-# Isabel_Costa
+# Isabel Costa
 
 On 23.01.2021 I am finishing a one year intensive course about Web Development, with focus on MERN Projects. 
 
@@ -11,5 +11,5 @@ My next career step, is to find a company where I can bring my fresh knowledge a
 
 I am looking forward to hear from you. 
 
-[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width=70 height=25>](https://www.linkedin.com/in/belcosta-webdeveloper/)
+[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width=70 height=25 target="_blank">](https://www.linkedin.com/in/belcosta-webdeveloper/)
 
