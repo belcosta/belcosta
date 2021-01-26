@@ -1,3 +1,5 @@
+<img src="./background.png" width="100%>
+                                   
 # Isabel_Costa
 
 On 23.01.2021 I am finishing a one year intensive course about Web Development, with focus on MERN Projects. 
