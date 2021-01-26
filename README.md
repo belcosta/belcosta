@@ -1,4 +1,4 @@
-<img src="./background.png" width="100%>
+<img src="/background.png" width="100%>
                                    
 # Isabel_Costa
 
