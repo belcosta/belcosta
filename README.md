@@ -11,5 +11,5 @@ My next career step, is to find a company where I can bring my fresh knowledge a
 
 I am looking forward to hear from you. 
 
-[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg">](https://www.linkedin.com/in/belcosta-webdeveloper/)
+[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width=70 height=25>](https://www.linkedin.com/in/belcosta-webdeveloper/)
 
