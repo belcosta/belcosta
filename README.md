@@ -22,12 +22,12 @@ My next career step, is to find a company where I can bring my fresh knowledge a
 ## 📫 How to reach me:
 
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="52px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="52px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"/>][linkedin]
 
 [LinkedIn]:https://www.linkedin.com/in/belcosta-webdeveloper/
 <br>
 
 I am looking forward to hear from you. 
 
-[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width=70 height=25 target="_blank">](https://www.linkedin.com/in/belcosta-webdeveloper/)
+
 
