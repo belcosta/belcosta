@@ -20,7 +20,6 @@ My next career step, is to find a company where I can bring my fresh knowledge a
 <img align="left" alt="Node" width="32px" src="https://img.icons8.com/color/2x/mongodb.png"/>
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> 
 <h3 display="inline-flex" >ex</h3>
-<br><br>
 <br />
 
 ## 📫 How to reach me:
