@@ -30,7 +30,6 @@ My next career step, is to find a company where I can bring my fresh knowledge a
 [LinkedIn]:https://www.linkedin.com/in/belcosta-webdeveloper/
 <br><br>
 
-I am looking forward to hear from you. 
-
+I am looking forward to hearing from you
 
 
