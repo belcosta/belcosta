@@ -27,7 +27,7 @@ My next career step, is to find a company where I can bring my fresh knowledge a
 ## 📫 How to reach me:
 
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="52px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"/>][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"/>][linkedin]
 
 [LinkedIn]:https://www.linkedin.com/in/belcosta-webdeveloper/
 <br><br>
